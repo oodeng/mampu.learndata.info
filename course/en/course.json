@@ -1,0 +1,212 @@
+{
+  "title": "Why does open data matter for Malaysia?",
+  "displayTitle": "Why does open data matter for Malaysia?",
+  "_latestTrackingId": 11,
+  "_learningOutcomes": [
+    {
+      "outcome": "Define open data",
+      "credits": 5,
+      "badge": "explorer"
+    },
+    {
+      "outcome": "Explain the need for open data",
+      "credits": 5,
+      "badge": "explorer"
+    }
+  ],
+  "_resources": [
+    {
+      "title": "Modules",
+      "description": "Switch to another module",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": []
+    },
+    {
+      "title": "Resources",
+      "description": "View additional module resources",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": []
+    },
+    {
+      "title": "Resources",
+      "description": "View additional module resources",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "David Eaves article",
+          "description": "Take me to David Eaves article",
+          "_link": "http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/"
+        },
+        {
+          "_type": "link",
+          "title": "Govlab article",
+          "description": "Open data education information in Tanzania",
+          "_link": "http://odimpact.org/case-open-education-information-in-tanzania.html"
+        },
+        {
+          "_type": "link",
+          "title": "Follow the Money",
+          "description": "Take me to Follow the Money",
+          "_link": "http://followthemoneyng.org/"
+        },
+        {
+          "_type": "link",
+          "title": "Transport for London",
+          "description": "Take me to Transport for London",
+          "_link": "http://www.tfl.gov.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "Thomson Reuters",
+          "description": "Take me to Thomson Reuters",
+          "_link": "http://site.thomsonreuters.com/site/data-identifiers/"
+        },
+        {
+          "_type": "link",
+          "title": "ODI annual report",
+          "description": "Take me to The ODI annual report",
+          "_link": "http://theodi.org/odis-second-year-annual-report"
+        },
+        {
+          "_type": "link",
+          "title": "United Nations news centre",
+          "description": "Take me to the United Nations news centre",
+          "_link": "http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc"
+        },
+        {
+          "_type": "link",
+          "title": "Better Choices Better Deals report",
+          "description": "Take me to Better Choices Better Deals report",
+          "_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Open data",
+      "description": "Use the content of this module as open data",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download module data</p></div>",
+          "description": "",
+          "_link": "course/en/components.json"
+        },
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
+          "description": "",
+          "_link": "course/en/course.json"
+        },
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download scorm package</p></div>",
+          "description": "",
+          "_link": "course/en/data/scorm.zip"
+        },
+        {
+          "_type": "link",
+          "title": "Open data certificate",
+          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><div class='open-data-certificate-text'><p>Open: ODI eLearning Data</p><p>Pilot Open Data Certificate (final)</p><p>Active - self certified</p></div></span>",
+          "_link": "https://certificates.theodi.org/datasets/25215/certificate"
+        },
+        {
+          "_type": "link",
+          "title": "Open licence",
+          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='adapt/css/assets/licence.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+          "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "_type": "link",
+          "title": "Content usage",
+          "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.",
+          "_link": "http://www.shutterstock.com/pic-255896113"
+        },
+        {
+          "_type": "link",
+          "title": "Exclusions",
+          "description": "This licence does not cover: <p>&nbsp;&gt; Logos and trade marks belonging to the Open Data Institute<br/>&nbsp;&gt; Third party content (such as images)</p>",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366"
+        },
+        {
+          "_type": "link",
+          "title": "Non-endorsement",
+          "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.",
+          "_link": "http://www.shutterstock.com/pic-185008832"
+        },
+        {
+          "_type": "link",
+          "title": "No warranty",
+          "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.",
+          "_link": "http://www.shutterstock.com/pic-189810137.html"
+        },
+        {
+          "_type": "link",
+          "title": "Open data institute logo",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
+          "_link": "http://theodi.org"
+        },
+        {
+          "_type": "link",
+          "title": "Your World - Delicate Beats",
+          "description": "Source: Premium Beat<br/>Credit: leromin<br/>Licence: Premium Beat Standard License",
+          "_link": "http://www.premiumbeat.com/royalty_free_music/songs/your-world"
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "description": "Discover about how these modules were created.",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "ODI Training Team",
+          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+          "_link": "http://theodi.org/training_team"
+        },
+        {
+          "_type": "link",
+          "title": "Adapt learning",
+          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+          "_link": "https://community.adaptlearning.org/"
+        }
+      ]
+    }
+  ],
+  "_id": "course",
+  "_type": "course",
+  "format": "eLearning",
+  "_buttons": {
+    "submit": "Submit",
+    "reset": "Reset",
+    "showCorrectAnswer": "Model Answer",
+    "hideCorrectAnswer": "My Answer"
+  }
+}
